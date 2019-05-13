@@ -3,7 +3,7 @@ package types
 import (
 	"fmt"
 
-	"github.com/zhouxun1995/xutil/hexutil"
+	"github.com/go-zhouxun/xutil/hexutil"
 )
 
 type HexInt int64

@@ -2,9 +2,9 @@ package ethclient
 
 import (
 	"encoding/json"
-	"github.com/zhouxun1995/ethclient/types"
 
-	"github.com/zhouxun1995/xutil/xhttp"
+	"github.com/go-zhouxun/ethclient/types"
+	"github.com/go-zhouxun/xutil/xhttp"
 )
 
 type GethClient struct {

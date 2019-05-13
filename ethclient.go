@@ -9,9 +9,9 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	types2 "github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/zhouxun1995/ethclient/types"
-	"github.com/zhouxun1995/xlog"
-	"github.com/zhouxun1995/xutil/hexutil"
+	"github.com/go-zhouxun/ethclient/types"
+	"github.com/go-zhouxun/xlog"
+	"github.com/go-zhouxun/xutil/hexutil"
 )
 
 type EthClient struct {
