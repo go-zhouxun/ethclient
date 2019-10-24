@@ -3,7 +3,7 @@ package types
 import (
 	"fmt"
 
-	"github.com/go-zhouxun/xutil/hexutil"
+	"github.com/ethereum/go-ethereum/common/hexutil"
 )
 
 type HexInt int64
